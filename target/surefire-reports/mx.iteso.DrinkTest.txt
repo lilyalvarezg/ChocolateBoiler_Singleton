@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: mx.iteso.DrinkTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec <<< FAILURE!
+mx.iteso.DrinkTest.testName()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at mx.iteso.DrinkTest.testName(DrinkTest.java:32)
+
+mx.iteso.DrinkTest.testPrice()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at mx.iteso.DrinkTest.testPrice(DrinkTest.java:23)
+
+mx.iteso.DrinkTest.testWaiter()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at mx.iteso.DrinkTest.testWaiter(DrinkTest.java:36)
+
+mx.iteso.DrinkTest.testDescription()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at mx.iteso.DrinkTest.testDescription(DrinkTest.java:28)
+

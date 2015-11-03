@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: mx.iteso.DishTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec <<< FAILURE!
+mx.iteso.DishTest.testName()  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at mx.iteso.DishTest.testName(DishTest.java:34)
+
+mx.iteso.DishTest.testPrice()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at mx.iteso.DishTest.testPrice(DishTest.java:25)
+
+mx.iteso.DishTest.testWaiter()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at mx.iteso.DishTest.testWaiter(DishTest.java:38)
+
+mx.iteso.DishTest.testDescription()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at mx.iteso.DishTest.testDescription(DishTest.java:30)
+
